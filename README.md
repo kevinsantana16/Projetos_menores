@@ -1,18 +1,18 @@
 # Projetos_menores
 Repositório para pequenos projetos. Exercícios ou praticando programação 
 
-# circle 
+# [circle](https://github.com/kevinsantana16/Projetos_menores/tree/main/Circle) 
 
 Uma animação de um quadrado que vira um círculo 
 
 
 Exemplo: https://codepen.io/nivekps/pen/dydzYdX
 
-# Mad-Libs
+# [Mad-Libs](https://github.com/kevinsantana16/Projetos_menores/tree/main/Mad-Libs)
 
 Jogos de palavras criado com o módulo Tkinter
 
-# Number-Guessing
+# [Number-Guessing](https://github.com/kevinsantana16/Projetos_menores/tree/main/Number_Guessing)
 
 Jogo: Adivinhe o número 
 
