@@ -8,8 +8,8 @@ acertos = 0
 erros = 0
 
 while tentativas != 5:
-    num = randint(1, 15)
-    user = int(input("Escolha um número entre 1 e 15: "))
+    num = randint(1, 50)
+    user = int(input("Escolha um número entre 1 e 50: "))
 
     if num == user:
         print("Número correto!!!")
