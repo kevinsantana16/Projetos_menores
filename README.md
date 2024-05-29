@@ -27,4 +27,4 @@ Praticando pesquisa binaria do livro [Entendendo algoritmos - Um guia ilustrado 
 
 # [Socket-UDP](https://github.com/kevinsantana16/Projetos_menores/tree/main/Socket-UDP)
 
-Faculdade - Codigo da conexao Socket-UDP
+Faculdade Desenvolvimento de Aplicações Com Sockets
