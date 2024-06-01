@@ -27,4 +27,8 @@ Praticando pesquisa binaria do livro [Entendendo algoritmos - Um guia ilustrado 
 
 # [Socket-UDP](https://github.com/kevinsantana16/Projetos_menores/tree/main/Socket-UDP)
 
-Faculdade Desenvolvimento de Aplicações Com Sockets
+Faculdade Desenvolvimento de Aplicações Com Sockets - UDP
+
+# [Socket-TCP](https://github.com/kevinsantana16/Projetos_menores/tree/main/Socket-TCP)
+
+Faculdade Desenvolvimento de Aplicações Com Sockets - TCP
