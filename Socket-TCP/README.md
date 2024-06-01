@@ -1,4 +1,4 @@
-# Cliente e Servidor TCP Simples
+# Cliente e Servidor TCP Simples - Faculdade
 
 Este projeto contém um exemplo simples de cliente e servidor TCP que enviam e recebem 16 octetos (bytes).
 

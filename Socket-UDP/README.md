@@ -1,4 +1,4 @@
-# Análise do código Python para servidor e cliente UDP
+# Análise do código Python para servidor e cliente UDP - Faculdade
 
 O código apresentado implementa um servidor e um cliente UDP simples para comunicação local. Ele utiliza o módulo socket e a biblioteca datetime do Python.
 
